@@ -1,0 +1,8 @@
+D:\CourseIng\Courses\C Sharp\SourceCode\c-sharp-training-courseing\c-sharp-training-access\obj\Debug\c-sharp-training-access.csprojResolveAssemblyReference.cache
+D:\CourseIng\Courses\C Sharp\SourceCode\c-sharp-training-courseing\c-sharp-training-access\bin\Debug\c-sharp-training-access.exe.config
+D:\CourseIng\Courses\C Sharp\SourceCode\c-sharp-training-courseing\c-sharp-training-access\bin\Debug\c-sharp-training-access.exe
+D:\CourseIng\Courses\C Sharp\SourceCode\c-sharp-training-courseing\c-sharp-training-access\bin\Debug\c-sharp-training-access.pdb
+D:\CourseIng\Courses\C Sharp\SourceCode\c-sharp-training-courseing\c-sharp-training-access\bin\Debug\c-sharp-training.dll
+D:\CourseIng\Courses\C Sharp\SourceCode\c-sharp-training-courseing\c-sharp-training-access\bin\Debug\c-sharp-training.pdb
+D:\CourseIng\Courses\C Sharp\SourceCode\c-sharp-training-courseing\c-sharp-training-access\obj\Debug\c-sharp-training-access.exe
+D:\CourseIng\Courses\C Sharp\SourceCode\c-sharp-training-courseing\c-sharp-training-access\obj\Debug\c-sharp-training-access.pdb
