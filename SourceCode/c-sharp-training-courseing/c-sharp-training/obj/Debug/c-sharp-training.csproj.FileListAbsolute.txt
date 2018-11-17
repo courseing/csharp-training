@@ -3,3 +3,9 @@ D:\CourseIng\Courses\C Sharp\SourceCode\c-sharp-training-courseing\c-sharp-train
 D:\CourseIng\Courses\C Sharp\SourceCode\c-sharp-training-courseing\c-sharp-training\bin\Debug\c-sharp-training.pdb
 D:\CourseIng\Courses\C Sharp\SourceCode\c-sharp-training-courseing\c-sharp-training\obj\Debug\c-sharp-training.dll
 D:\CourseIng\Courses\C Sharp\SourceCode\c-sharp-training-courseing\c-sharp-training\obj\Debug\c-sharp-training.pdb
+D:\CourseIng\Courses\C Sharp\csharp-training\SourceCode\c-sharp-training-courseing\c-sharp-training\bin\Debug\c-sharp-training.pdb
+D:\CourseIng\Courses\C Sharp\csharp-training\SourceCode\c-sharp-training-courseing\c-sharp-training\obj\Debug\c-sharp-training.csprojResolveAssemblyReference.cache
+D:\CourseIng\Courses\C Sharp\csharp-training\SourceCode\c-sharp-training-courseing\c-sharp-training\obj\Debug\c-sharp-training.pdb
+D:\CourseIng\Courses\C Sharp\csharp-training\SourceCode\c-sharp-training-courseing\c-sharp-training\bin\Debug\c-sharp-training.exe.config
+D:\CourseIng\Courses\C Sharp\csharp-training\SourceCode\c-sharp-training-courseing\c-sharp-training\bin\Debug\c-sharp-training.exe
+D:\CourseIng\Courses\C Sharp\csharp-training\SourceCode\c-sharp-training-courseing\c-sharp-training\obj\Debug\c-sharp-training.exe
