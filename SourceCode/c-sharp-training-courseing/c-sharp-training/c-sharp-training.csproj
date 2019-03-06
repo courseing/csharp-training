@@ -52,11 +52,13 @@
     <Compile Include="AccessModifiers\ManageCustomers.cs" />
     <Compile Include="AccessModifiers\ManageEmployee.cs" />
     <Compile Include="AccessModifiers\Person.cs" />
+    <Compile Include="ClassObjects\ProductCategory.cs" />
     <Compile Include="Collection\Player.cs" />
     <Compile Include="Exceptions\InnerException.cs" />
     <Compile Include="Exceptions\Player.cs" />
     <Compile Include="Exceptions\Team.cs" />
     <Compile Include="Exceptions\TeamException.cs" />
+    <Compile Include="Inheritance\Employee.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StaticKeyword\Employee.cs" />

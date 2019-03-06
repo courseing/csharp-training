@@ -8,13 +8,13 @@ using c_sharp_training.Exceptions;
 
 namespace c_sharp_training
 {
-    class Program
-    {
-        public static void Main(string[] args)
-        {
-            InnerException exc = new InnerException();
-            exc.RaiseException();
+    //class Program
+    //{
+    //    public static void Main(string[] args)
+    //    {
+    //        InnerException exc = new InnerException();
+    //        exc.RaiseException();
 
-        }
-    }
+    //    }
+    //}
 }
