@@ -105,30 +105,30 @@ namespace c_sharp_training.Inheritance
 
     }
 
-    public class Program
-    {
-        public static void Main(string[] ar)
-        {
-            PaidEmployee paidemployee = new PaidEmployee("MK", "Gandhi",100,10);
-            //Console.WriteLine("PaidEmployee paidemployee = new PaidEmployee();");
-            //Console.WriteLine(paidemployee.DisplayName("MK", "Gandhi")); // Child
-            //Console.WriteLine(paidemployee.ORDisplayName("MK", "Gandhi")); // Child
-            //Console.WriteLine(paidemployee.NORDisplayName("MK", "Gandhi")); // Parent
+    //public class Program
+    //{
+    //    public static void Main(string[] ar)
+    //    {
+    //        PaidEmployee paidemployee = new PaidEmployee("MK", "Gandhi",100,10);
+    //        //Console.WriteLine("PaidEmployee paidemployee = new PaidEmployee();");
+    //        //Console.WriteLine(paidemployee.DisplayName("MK", "Gandhi")); // Child
+    //        //Console.WriteLine(paidemployee.ORDisplayName("MK", "Gandhi")); // Child
+    //        //Console.WriteLine(paidemployee.NORDisplayName("MK", "Gandhi")); // Parent
 
 
-            //Employee employee = new PaidEmployee("MK","Gandhi", 100);
-            //Console.WriteLine("Employee employee = new PaidEmployee();");
-            //Console.WriteLine(employee.DisplayName("MK", "Gandhi")); // Child
-            //Console.WriteLine(employee.ORDisplayName("MK", "Gandhi")); // Child
-            //Console.WriteLine(employee.NORDisplayName("MK", "Gandhi")); // Parent
+    //        //Employee employee = new PaidEmployee("MK","Gandhi", 100);
+    //        //Console.WriteLine("Employee employee = new PaidEmployee();");
+    //        //Console.WriteLine(employee.DisplayName("MK", "Gandhi")); // Child
+    //        //Console.WriteLine(employee.ORDisplayName("MK", "Gandhi")); // Child
+    //        //Console.WriteLine(employee.NORDisplayName("MK", "Gandhi")); // Parent
 
-            //Employee employee = new PaidEmployee();
-            //Console.WriteLine("Employee employee = new PaidEmployee();");
-            //Console.WriteLine(employee.DisplayName("MK","Gandhi"));
-            //Console.WriteLine(employee.ORDisplayName("MK", "Gandhi"));
+    //        //Employee employee = new PaidEmployee();
+    //        //Console.WriteLine("Employee employee = new PaidEmployee();");
+    //        //Console.WriteLine(employee.DisplayName("MK","Gandhi"));
+    //        //Console.WriteLine(employee.ORDisplayName("MK", "Gandhi"));
 
 
-            Console.ReadLine();
-        }
-    }
+    //        Console.ReadLine();
+    //    }
+    //}
 }
